@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.swear_word{
+  background: #D8D8D8;
+  border-radius: 25px;
+  height: 75px;
+  width: 305px;
+  margin: auto;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.swear_word:hover{
+  background: #181818;
+}
+
+.swear_name{
+  display: inline-block;
+  float: left;
+  font-family: AvenirNext-Medium;
+  font-size: 20px;
+  color: #FFFFFF;
+  padding-top: 24px;
+  padding-left: 30px;
+  letter-spacing: 1.67px;
+}
+
+.swear_count{
+  display: inline-block;
+  float: right;
+  font-family: AvenirNext-Medium;
+  font-size: 20px;
+  color: #9B9B9B;
+  padding-top: 24px;
+  padding-right: 30px;
+  letter-spacing: 1.67px;
+}
